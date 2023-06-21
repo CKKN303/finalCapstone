@@ -1,6 +1,4 @@
 # finalCapstone
-Certainly! Here's the revised README file with the updated repository URL:
-
 # NLP Applications and Google Translate Project
 
 This project includes two PDF files. The first file contains a categorization of NLP applications for different use cases, while the second file discusses the innovative technology of Google Translate and its application in machine translation. These documents were completed as part of a Data Science bootcamp coursework.
