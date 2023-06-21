@@ -1,7 +1,9 @@
 # finalCapstone
+Certainly! Here's the revised README file with the updated repository URL:
+
 # NLP Applications and Google Translate Project
 
-This project includes two PDF files. The first file contains a categorization of NLP applications for different use cases, while the second file discusses the innovative technology of Google Translate and its application in machine translation. These documents were completed as part of a Data Science bootcamp.
+This project includes two PDF files. The first file contains a categorization of NLP applications for different use cases, while the second file discusses the innovative technology of Google Translate and its application in machine translation. These documents were completed as part of a Data Science bootcamp coursework.
 
 ## Table of Contents
 
@@ -16,16 +18,20 @@ To access the project and view the PDF files locally, please follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/CKKN303/finalCapstone.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd your-repository
+   cd finalCapstone
    ```
 
 3. You can now access the PDF files (`NLP_Applications.pdf` and `Google_Translate_Project.pdf`) using any PDF viewer.
+
+Remember to replace "CKKN303" with your own GitHub username if you want to clone the repository under your account.
+
+Note: If you already have the repository cloned, make sure to fetch the latest changes from the remote repository using `git pull` before navigating to the project directory.
 
 ## Usage
 
